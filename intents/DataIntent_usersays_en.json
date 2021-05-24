@@ -1,0 +1,601 @@
+[
+  {
+    "id": "dca40209-c560-4300-9a37-5a7263459ccd",
+    "data": [
+      {
+        "text": "deceased",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2747c0ec-0eba-42ac-8518-9a244d97a9f7",
+    "data": [
+      {
+        "text": "confirmed",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55a5dd3f-42a6-4f09-924e-a1238dfdf500",
+    "data": [
+      {
+        "text": "recovered",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f841a86-0434-4350-bcd5-430e3649d464",
+    "data": [
+      {
+        "text": "active",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce3fdcd7-2b5b-48b2-9451-eb1a929592f5",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "total",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "death",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29c07850-d41f-41a1-81cc-214a6b15d950",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "total",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "deceased",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9b3d43a-98cb-477d-ac77-3d312e303e72",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "total",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "recovered",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b730606-4ac0-4035-8056-02009dc58413",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "total",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "active",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "436c5cd2-c95b-4bea-99c8-09c341f6fd0b",
+    "data": [
+      {
+        "text": "Total",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "confirmed",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": true
+      },
+      {
+        "text": " case of state-1 bihar ",
+        "userDefined": false
+      },
+      {
+        "text": "difference",
+        "meta": "@Duration",
+        "alias": "duration",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73d6e6d9-e8da-417d-814e-8195a59659bb",
+    "data": [
+      {
+        "text": "Total",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "confirmed",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": true
+      },
+      {
+        "text": " case of state-1 bihar ",
+        "userDefined": false
+      },
+      {
+        "text": "yesterday",
+        "meta": "@Duration",
+        "alias": "duration",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1871876c-6ab9-4451-b4c9-62962514fc25",
+    "data": [
+      {
+        "text": "Total",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "confirmed",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "case",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " of state-1 ",
+        "userDefined": false
+      },
+      {
+        "text": "bihar",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@Duration",
+        "alias": "duration",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2e057cd-4587-4863-b737-d2f3e4544432",
+    "data": [
+      {
+        "text": "Confirmed",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": true
+      },
+      {
+        "text": " or ",
+        "userDefined": false
+      },
+      {
+        "text": "total",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcdb520c-75ac-4a54-95c3-150e6f798fd8",
+    "data": [
+      {
+        "text": "Recovered",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69bdf223-655c-4aa6-b112-1cbe2418ce26",
+    "data": [
+      {
+        "text": "Deceases",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53a718f3-e571-426e-bd83-316995a7d1ec",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "active",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be6cdaf8-32b6-440b-98b2-220876b71696",
+    "data": [
+      {
+        "text": "Can I get the ",
+        "userDefined": false
+      },
+      {
+        "text": "duration",
+        "meta": "@Duration",
+        "alias": "duration",
+        "userDefined": true
+      },
+      {
+        "text": " details of covid ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c43a193-c9e5-49dc-8135-10f15810b3bb",
+    "data": [
+      {
+        "text": "Can I have the ",
+        "userDefined": false
+      },
+      {
+        "text": "state",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": true
+      },
+      {
+        "text": " covid ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "432f41ff-d5b4-4ff6-a70b-40494c22e883",
+    "data": [
+      {
+        "text": "Difference",
+        "meta": "@Duration",
+        "alias": "duration",
+        "userDefined": true
+      },
+      {
+        "text": " between data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa64760f-8306-49ff-b0d5-73cee960eb4f",
+    "data": [
+      {
+        "text": "Yesterday",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": true
+      },
+      {
+        "text": " covid data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7484748-acbd-42fe-86ff-6b058ffbb980",
+    "data": [
+      {
+        "text": "Today",
+        "meta": "@Cases",
+        "alias": "cases",
+        "userDefined": true
+      },
+      {
+        "text": " covid data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

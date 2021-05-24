@@ -1,0 +1,39 @@
+[
+  {
+    "value": "Active",
+    "synonyms": [
+      "Active",
+      "a",
+      "ac",
+      "act"
+    ]
+  },
+  {
+    "value": "Recovered",
+    "synonyms": [
+      "Recovered",
+      "r",
+      "rec",
+      "recov"
+    ]
+  },
+  {
+    "value": "Total",
+    "synonyms": [
+      "Total",
+      "t",
+      "tot",
+      "confirm",
+      "confirmed"
+    ]
+  },
+  {
+    "value": "Death",
+    "synonyms": [
+      "Death",
+      "d",
+      "ded",
+      "deceased"
+    ]
+  }
+]

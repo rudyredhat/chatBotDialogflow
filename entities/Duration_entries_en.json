@@ -1,0 +1,29 @@
+[
+  {
+    "value": "Today",
+    "synonyms": [
+      "Today",
+      "t",
+      "tod",
+      "aaj"
+    ]
+  },
+  {
+    "value": "Yesterday",
+    "synonyms": [
+      "Yesterday",
+      "y",
+      "yes",
+      "kal"
+    ]
+  },
+  {
+    "value": "Difference",
+    "synonyms": [
+      "Difference",
+      "diff",
+      "d",
+      "minus"
+    ]
+  }
+]

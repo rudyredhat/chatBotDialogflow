@@ -1,0 +1,9 @@
+{
+  "id": "6a771007-f202-464b-bdfa-16b54735cd45",
+  "name": "Duration",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

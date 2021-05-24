@@ -1,0 +1,40 @@
+{
+  "id": "9f3e1dbf-1b18-4c89-8f95-abc89eb63865",
+  "parentId": "d05e1c4e-9e6e-4d9c-ac33-5fa92aceec98",
+  "rootParentId": "d05e1c4e-9e6e-4d9c-ac33-5fa92aceec98",
+  "name": "DataIntent - no",
+  "auto": true,
+  "contexts": [
+    "DataIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DataIntent.DataIntent-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok, What would you like?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

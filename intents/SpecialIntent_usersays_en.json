@@ -1,0 +1,53 @@
+[
+  {
+    "id": "6503f8a8-95f0-440a-99a6-268393538f97",
+    "data": [
+      {
+        "text": "state 1 - West Bengal Covid data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "588db70c-b24a-4892-9f25-93b49b887f4c",
+    "data": [
+      {
+        "text": "state 3 - Karnataka",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " Covid data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea6efeb1-0e1b-4f52-8d3e-132fb28624b9",
+    "data": [
+      {
+        "text": "state 2 - Bihar",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " Covid data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "id": "d05e1c4e-9e6e-4d9c-ac33-5fa92aceec98",
+  "name": "DataIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "DataIntent-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "00e9d375-a290-48c5-be4e-57b414aa0097",
+          "name": "duration",
+          "required": true,
+          "dataType": "@Duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell me the duration - today , yesterday or difference between them?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3b67be57-7211-4e1d-b5df-f782395cb1b3",
+          "name": "cases",
+          "required": true,
+          "dataType": "@Cases",
+          "value": "$cases",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell me the type of case - active, recovered, deceased or total confirmed ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you, You want COVID DATA for all $cases cases for the period $duration."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
